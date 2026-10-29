@@ -3,5 +3,4 @@ const PROMO_CODES = {
   BIENVENUE10: 0.1,
   RAMADAN20: 0.20,
 };
-
 module.exports = PROMO_CODES;
