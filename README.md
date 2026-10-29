@@ -60,3 +60,6 @@ artishop/
 
 Le panier est gardé en mémoire : il est vidé à chaque redémarrage du serveur.
 Recette QA
+## Recette (QA)
+
+Vérification du projet par l'équipe QA.
