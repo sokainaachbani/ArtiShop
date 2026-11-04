@@ -60,16 +60,16 @@ const products = [
 
   },
 {
-    id: 7, // le numéro qui suit le dernier produit
+    id: 8, // le numéro qui suit le dernier produit
 name: "Pouf en cuir de Marrakech",
 category: "Maroquinerie",
 price: 350,
 stock: 6,
 description: "Pouf rond en cuir brodé à la main, livré non rembourré."
-}
+},
  
    {
-    id: 7,
+    id: 9,
     name: "Babouches brodées de Fès",
     category: "Maroquinerie",
     price: 220,
