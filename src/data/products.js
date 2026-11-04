@@ -56,7 +56,16 @@ const products = [
     price: 200,
     stock: 4,
     description: "Plateau en zellige de Fès, décoré de motifs traditionnels."
-  }
+  },
+{
+    id: 7, // le numéro qui suit le dernier produit
+name: "Pouf en cuir de Marrakech",
+category: "Maroquinerie",
+price: 350,
+stock: 6,
+description: "Pouf rond en cuir brodé à la main, livré non rembourré."
+}
+
 ];
 
 module.exports = products;
