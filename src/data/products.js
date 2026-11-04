@@ -48,6 +48,7 @@ const products = [
     price: 45,
     stock: 50,
     description: "Savon noir traditionnel à l'huile d'olive et à l'eucalyptus."
+
   },
   {
     id: 7,
@@ -56,6 +57,7 @@ const products = [
     price: 200,
     stock: 4,
     description: "Plateau en zellige de Fès, décoré de motifs traditionnels."
+
   },
 {
     id: 7, // le numéro qui suit le dernier produit
@@ -65,6 +67,16 @@ price: 350,
 stock: 6,
 description: "Pouf rond en cuir brodé à la main, livré non rembourré."
 }
+ 
+   {
+    id: 7,
+    name: "Babouches brodées de Fès",
+    category: "Maroquinerie",
+    price: 220,
+    stock: 12,
+    description: "Babouches traditionnelles de Fès brodées à la main."
+
+  }
 
 ];
 
